@@ -31,11 +31,11 @@ Click [here](https://github.com/fbcom/alfred2firetask/archive/master.zip) to dow
 
 ### Usage:
 
-Use the "**ft**" trigger to show the dialog to add tasks (see demo above):
+Use the "**ft**" trigger to show the dialog to add tasks (see above gif):
 
 1. Type "**ft** " followed by a description of what your new task is.
 2. Hit [Enter] to add the task to Firetask.
-3. \o/
+3. Win \o/
 
 
 
@@ -64,8 +64,8 @@ to define the **priority**, **notes**, **category**, **project** and the **due**
 
 This adds a **"high priority"** task by the name of **"buy a lemon"** in the category **"Errands"** and project **"Fruity life"** with a due date of **"2015-05-10"** in your In-Tray.
 
-##### Abbreviations are also available:
-> **ft** buy a lemon **prio:** high **cat:** Errands **proj:** Fruity life **due:** 2015-05-10 **note:** buy two, just in case
+##### Abbreviations for the modifiers are also available:
+> **ft** buy a lemon **prio:** high **cat:** Errands **proj:** Fruity life **due:** 2015-05-10 **note:** now I want three
 
 ##### Note:
 
@@ -73,7 +73,7 @@ You don't need to use all modifiers at once. However the subject of the task mus
 
 ### Features:
 
-- Ability to add a new Task to the "In-Tray" of Firetask.
+- Ability to add a new Task to the "In-Tray" of the Firetask GTD App.
 
 ## Contributing
 
@@ -81,7 +81,7 @@ You don't need to use all modifiers at once. However the subject of the task mus
 2. Create your awesome feature branch: `git checkout -b my-new-awesome-feature`
 3. Commit your changes: `git commit -m 'Add some awesome feature'`
 4. Push to the branch: `git push origin my-new-awesome-feature`
-5. Submit a pull request :-)
+5. Submit a pull request to me :-)
 
 ## License
 
