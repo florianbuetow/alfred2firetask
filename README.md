@@ -1,11 +1,11 @@
 Firetask for Alfred 2
 ==============
 <span>
-<img src="http://www.alfredapp.com/images/logo.png" width="80px" border=0>
+<img src="https://www.alfredapp.com/media/logo.png" width="80px" border=0>
 <img src="http://www.firetask.com/images/icon-firetask-mac.png" width="80px" border=0>
 </span><br/>
 
-This workflow lets you add new tasks to the "In-Tray" of Firetask using Alfred.
+This workflow for Alfred2 lets you add new tasks to the "In-Tray" of the Firetask GTD productivity app.
 
 ### Demo:
 ![Firetask for Alfred workflow in action](screenshot.gif "Firetask for Alfred workflow in action")
@@ -22,7 +22,7 @@ In order to use this workflow you need:
 
 ### Download:
 
-Click [here](https://github.com/fbcom/alfred2firetask/archive/master.zip) to dowload a zip file.
+Click [here](https://github.com/fbcom/alfred2firetask/archive/master.zip) to download the workflow as a zip file.
 
 ### Installation:
 
@@ -89,7 +89,7 @@ Logos are protected by copyright by their respective owners.<br/>
 
 __Alfred__ &reg; is a registered trademark of Running with Crayons Ltd.<br/>
 __Firetask__ &reg; is a registered trademark of Gerald Aquila.<br/>
-
+__GTD__ &reg; ist a registred trademark of the David Allen Company.<br>
 
 This workflow is not affiliated with or endorsed by Gerald Aquila or Crayons Ltd.
 
