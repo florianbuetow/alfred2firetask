@@ -2,7 +2,7 @@ Firetask for Alfred 2
 ==============
 <span>
 <img src="https://www.alfredapp.com/media/logo.png" width="80px" border=0>
-<img src="http://www.firetask.com/images/icon-firetask-mac.png" width="80px" border=0>
+<img src="https://firetask.com/firetask/images/logo-firetask.svg" width="280px" border=0>
 </span><br/>
 
 This workflow for Alfred2 lets you add new tasks to the "In-Tray" of the Firetask GTD productivity app.
